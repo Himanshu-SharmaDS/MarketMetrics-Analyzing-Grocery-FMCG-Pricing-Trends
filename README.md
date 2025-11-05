@@ -9,11 +9,6 @@ The goal is to identify pricing strategies and insights to optimize profitabilit
 - Understand relationships between price and demand.  
 - Identify seasonal or brand-based pricing patterns.
 
-## 🧩 Dataset
-- Source: Company / Kaggle (if applicable)  
-- Rows: XXXX  
-- Columns: Product, Category, Price, Date, Competitor_Price, etc.
-
 ## 🔍 Methodology
 1. Data Cleaning & Preprocessing (handling missing values, date formatting)
 2. Exploratory Data Analysis (EDA)
