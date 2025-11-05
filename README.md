@@ -31,4 +31,10 @@ The goal is to identify pricing strategies and insights to optimize profitabilit
 - Matplotlib, Seaborn  
 - Jupyter Notebook
 
-## 📦 Folder Structure
+## 🚀 Results
+- Delivered actionable insights to optimize pricing strategy.
+- Improved market prediction accuracy.
+
+## 👨‍💻 Author
+**Himanshu Sharma**  
+🔗 [GitHub Profile](https://github.com/Himanshu-SharmaDS)
